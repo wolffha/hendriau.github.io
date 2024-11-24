@@ -14,7 +14,7 @@ organizations:
 - name: University of Colorado Denver
 - name: adelle.price@ucdenver.edu
   url: ""
-role: MS Student in Statistics
+role: Professional Research Assistant
 ##project:
 ##- Foodomics
 social:
