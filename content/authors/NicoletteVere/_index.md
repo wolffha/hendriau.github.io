@@ -27,5 +27,5 @@ social:
 #   link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Professional Research Assistants
+- Alumni
 ---

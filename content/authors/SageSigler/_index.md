@@ -32,7 +32,7 @@ social:
  # link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Professional Research Assistants
+- Alumni
 ---
 Greetings! My name is Sage. I received my MS in Statistics from CU Denver and my BS in Mathematics with a minor in Art from the University of New Orleans. I am from the beautiful city of New Orleans and love any excuse to put on a costume. Aside from biostatistical research, my other passions include Irish dance, art, card games, and reading.
 

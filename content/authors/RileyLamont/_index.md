@@ -8,7 +8,7 @@ organizations:
 - name: University of Colorado Denver
 - name: RILEY.LAMONT@UCDENVER.EDU
   url: ""
-role: PhD Student in Applied Mathematics (concentration in Statistics)
+role: MS in Statistics (2023)
 ##project:
 ##- Foodomics
 social:
@@ -26,7 +26,7 @@ social:
 #  link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Graduate Research Assistants
+- Alumni
 ---
 
 

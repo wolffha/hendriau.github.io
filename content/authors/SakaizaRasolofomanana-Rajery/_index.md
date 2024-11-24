@@ -27,7 +27,7 @@ social:
 #   link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Professional Research Assistants
+- Alumni
 ---
 My name is Sakaiza, I did my undergraduate studies at Smith College in Statistical and Data Sciences (SDS) and chemistry. I love any combination of numbers and health sciences. I am currently involved in the nutrition projects in the Hendricks team.
 
